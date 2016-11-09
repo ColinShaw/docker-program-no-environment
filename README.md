@@ -1,4 +1,4 @@
-##__Example Excecutable For Docker__
+##__Example Executable For Docker__
 
 This is just an example of minimal code that can be executed in a
 container with no additional support (e.g. copying dynamic libs).  Mainly 
